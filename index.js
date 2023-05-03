@@ -10,6 +10,9 @@ app.use(cors());
 app.get("/", (req, res) => {
   res.send("Server is running");
 });
+app.get("/chefs", (req, res) => {
+  res.send(chefs);
+});
 
 app.listen(port, () => {
   console.log(`Chef server api is running on port: ${port}`);
