@@ -1,1 +1,353 @@
-{}
+[
+  {
+    "chef_id": 1,
+    "chef_img": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Chef_Shota.jpg",
+    "likes": "500",
+    "chef_name": "Masaharu Morimoto",
+    "years_of_experience": 40,
+    "short_bio": "Masaharu Morimoto is a Japanese chef and television personality. He is best known as an Iron Chef on the Japanese television show Iron Chef and its spinoff Iron Chef America.",
+    "num_recipes": 3,
+    "recipes": [
+      {
+        "recipe_id": "1a2b3c4d",
+        "recipe_name": "Sushi",
+        "ingredients": ["rice", "fish", "seaweed", "vinegar", "sugar"],
+        "cooking_method": [
+          "Cook the rice and mix with vinegar and sugar",
+          "Cut the fish into bite-sized pieces",
+          "Place the fish on top of the rice and wrap with seaweed",
+          "Cut into bite-sized pieces and serve"
+        ],
+        "rating": 4.5
+      },
+      {
+        "recipe_id": "5e6f7g8h",
+        "recipe_name": "Ramen",
+        "ingredients": ["noodles", "pork", "vegetables", "soy sauce", "mirin"],
+        "cooking_method": [
+          "Boil the noodles and drain",
+          "Cook the pork and vegetables in a pot with soy sauce and mirin",
+          "Serve the pork and vegetables over the noodles"
+        ],
+        "rating": 4.0
+      },
+      {
+        "recipe_id": "9i0j1k2l",
+        "recipe_name": "Tempura",
+        "ingredients": ["shrimp", "vegetables", "flour", "cornstarch", "oil"],
+        "cooking_method": [
+          "Mix flour and cornstarch with cold water to make a batter",
+          "Dip the shrimp and vegetables in the batter",
+          "Fry in hot oil until golden brown",
+          "Serve with dipping sauce"
+        ],
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "chef_id": 2,
+    "chef_img": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Chef_Shota.jpg",
+    "likes": "540",
+    "chef_name": "Nobu Matsuhisa",
+    "years_of_experience": 35,
+    "short_bio": "Nobu Matsuhisa is a Japanese celebrity chef and restaurateur. He is known for his fusion cuisine blending traditional Japanese dishes with South American ingredients.",
+    "num_recipes": 3,
+    "recipes": [
+      {
+        "recipe_id": "3m4n5o6p",
+        "recipe_name": "Black Cod with Miso",
+        "ingredients": [
+          "black cod",
+          "mirin",
+          "sake",
+          "white miso",
+          "brown sugar"
+        ],
+        "cooking_method": [
+          "Mix the mirin, sake, and brown sugar in a bowl",
+          "Add the miso and stir until smooth",
+          "Marinate the black cod in the mixture for at least 24 hours",
+          "Broil the fish until the surface is lightly browned and crispy",
+          "Serve with steamed rice and vegetables"
+        ],
+        "rating": 4.7
+      },
+      {
+        "recipe_id": "7q8r9s0t",
+        "recipe_name": "Tiradito",
+        "ingredients": [
+          "raw fish",
+          "lime juice",
+          "aji amarillo pepper",
+          "cilantro",
+          "garlic"
+        ],
+        "cooking_method": [
+          "Slice the fish into thin pieces and arrange on a plate",
+          "Mix the lime juice, aji amarillo pepper, cilantro, and garlic in a blender to make a sauce",
+          "Pour the sauce over the fish",
+          "Serve chilled"
+        ],
+        "rating": 4.3
+      },
+      {
+        "recipe_id": "1u2v3w4x",
+        "recipe_name": "Rock Shrimp Tempura",
+        "ingredients": [
+          "rock shrimp",
+          "tempura batter mix",
+          "eggs",
+          "water",
+          "soy sauce"
+        ],
+        "cooking_method": [
+          "Mix the tempura batter mix with eggs and water to make a batter",
+          "Dip the rock shrimp in the batter",
+          "Fry in hot oil until golden brown",
+          "Serve with soy sauce"
+        ],
+        "rating": 4.1
+      }
+    ]
+  },
+  {
+    "chef_id": 3,
+    "chef_img": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Chef_Shota.jpg",
+    "likes": "450",
+    "chef_name": "Yoshihiro Murata",
+    "years_of_experience": 50,
+    "short_bio": "Yoshihiro Murata is a third-generation Japanese chef and the owner of Kikunoi, a Michelin-starred restaurant in Kyoto. He is known for his traditional Japanese cuisine.",
+    "num_recipes": 3,
+    "recipes": [
+      {
+        "recipe_id": "5y6z7a8b",
+        "recipe_name": "Kaiseki",
+        "ingredients": [
+          "seasonal ingredients",
+          "rice",
+          "soup",
+          "pickles",
+          "sake"
+        ],
+        "cooking_method": [
+          "Select seasonal ingredients and prepare them in various ways such as grilling, simmering, and steaming",
+          "Serve with rice, soup, pickles, and sake"
+        ],
+        "rating": 4.9
+      },
+      {
+        "recipe_id": "9c0d1e2f",
+        "recipe_name": "Chawanmushi",
+        "ingredients": [
+          "eggs",
+          "dashi stock",
+          "soy sauce",
+          "mirin",
+          "mushrooms"
+        ],
+        "cooking_method": [
+          "Mix eggs, dashi stock, soy sauce, and mirin in a bowl",
+          "Pour the mixture into a cup and add sliced mushrooms",
+          "Steam until the custard is set",
+          "Serve hot"
+        ],
+        "rating": 4.4
+      },
+      {
+        "recipe_id": "3g4h5i6j",
+        "recipe_name": "Soba",
+        "ingredients": [
+          "buckwheat flour",
+          "water",
+          "sauce",
+          "green onion",
+          "wasabi"
+        ],
+        "cooking_method": [
+          "Mix the buckwheat flour and water to make a dough",
+          "Knead the dough and roll it out to make thin noodles",
+          "Boil the noodles in water for a few minutes",
+          "Serve with dipping sauce made of soy sauce, mirin, and dashi, topped with sliced green onion and wasabi"
+        ],
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "chef_id": 4,
+    "chef_img": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Chef_Shota.jpg",
+    "likes": "645",
+    "chef_name": "Shota Nakajima",
+    "years_of_experience": 45,
+    "short_bio": "Shota Nakajima is a celebrity chef and the owner of Nobu, a world_renowned Japanese restaurant chain. He is known for his fusion cuisine that combines Japanese and Peruvian ingredients.",
+    "num_recipes": 3,
+    "recipes": [
+      {
+        "recipe_id": "7f6e5d4c",
+        "recipe_name": "Black Cod with Miso",
+        "ingredients": ["black cod", "mirin", "sake", "miso", "sugar"],
+        "cooking_method": [
+          "Mix the mirin, sake, and sugar in a saucepan and simmer until the alcohol evaporates",
+          "Add the miso and stir until smooth",
+          "Marinate the black cod in the mixture for at least 2 days",
+          "Grill the fish until the surface is lightly browned and crispy",
+          "Serve with steamed rice and vegetables"
+        ],
+        "rating": 4.8
+      },
+      {
+        "recipe_id": "9j8i7h6g",
+        "recipe_name": "Tiradito",
+        "ingredients": [
+          "raw fish",
+          "lime juice",
+          "aji amarillo pepper",
+          "cilantro",
+          "garlic"
+        ],
+        "cooking_method": [
+          "Slice the fish into thin pieces and arrange on a plate",
+          "Mix the lime juice, aji amarillo pepper, cilantro, and garlic in a blender to make a sauce",
+          "Pour the sauce over the fish",
+          "Serve chilled"
+        ],
+        "rating": 4.6
+      },
+      {
+        "recipe_id": "2k3l4m5n",
+        "recipe_name": "Rock Shrimp Tempura",
+        "ingredients": [
+          "rock shrimp",
+          "tempura batter mix",
+          "eggs",
+          "water",
+          "soy sauce"
+        ],
+        "cooking_method": [
+          "Mix the tempura batter mix with eggs and water to make a batter",
+          "Dip the rock shrimp in the batter",
+          "Fry in hot oil until golden brown",
+          "Serve with soy sauce"
+        ],
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "chef_id": 5,
+    "chef_img": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Chef_Shota.jpg",
+    "likes": "654",
+    "chef_name": "Jiro Ono",
+    "years_of_experience": 80,
+    "short_bio": "Jiro Ono is a Japanese sushi chef and the owner of Sukiyabashi Jiro, a Michelin-starred sushi restaurant in Tokyo. He is known for his dedication to perfection and his attention to detail.",
+    "num_recipes": 3,
+    "recipes": [
+      {
+        "recipe_id": "4n3m",
+        "recipe_name": "Sushi Rice",
+        "ingredients": ["short-grain rice", "rice vinegar", "sugar", "salt"],
+        "cooking_method": [
+          "Rinse the rice in water until the water runs clear",
+          "Cook the rice in a rice cooker with water according to the instructions",
+          "In a small saucepan, mix the rice vinegar, sugar, and salt, and heat until the sugar dissolves",
+          "When the rice is cooked, transfer it to a large bowl and add the vinegar mixture",
+          "Mix gently to coat the rice with the vinegar seasoning"
+        ],
+        "rating": 4.7
+      },
+      {
+        "recipe_id": "2j3k4l5m",
+        "recipe_name": "Tuna Sushi",
+        "ingredients": [
+          "sushi_grade tuna",
+          "sushi rice",
+          "wasabi",
+          "soy sauce",
+          "pickled ginger"
+        ],
+        "cooking_method": [
+          "Cut the tuna into small pieces",
+          "Make small balls of sushi rice and place a piece of tuna on each ball",
+          "Serve with wasabi, soy sauce, and pickled ginger"
+        ],
+        "rating": 4.9
+      },
+      {
+        "recipe_id": "7i6h5g4f",
+        "recipe_name": "Egg Sushi",
+        "ingredients": ["egg", "sugar", "mirin", "soy sauce", "sushi rice"],
+        "cooking_method": [
+          "Mix the egg, sugar, mirin, and soy sauce in a bowl",
+          "Heat a non-stick frying pan and pour in a thin layer of the egg mixture",
+          "When the egg is set, roll it up and slice it into thin strips",
+          "Make small balls of sushi rice and place a strip of egg on each ball",
+          "Serve with soy sauce and wasabi"
+        ],
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "chef_id": 6,
+    "chef_img": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Chef_Shota.jpg",
+    "likes": "945",
+    "chef_name": "Masahi Morimoto",
+    "years_of_experience": 40,
+    "short_bio": "Masahi Morimoto is a Japanese chef and the owner of Morimoto, a Japanese restaurant in Philadelphia. He is known for his creative fusion cuisine that blends Japanese and Western ingredients and cooking techniques.",
+    "num_recipes": 3,
+    "recipes": [
+      {
+        "recipe_id": "3m4n5o6p",
+        "recipe_name": "Tuna Pizza",
+        "ingredients": [
+          "pizza dough",
+          "tuna",
+          "tomatoes",
+          "mozzarella cheese",
+          "anchovy paste"
+        ],
+        "cooking_method": [
+          "Roll out the pizza dough and bake in the oven until lightly browned",
+          "Top with sliced tomatoes, tuna, and mozzarella cheese",
+          "Dilute the anchovy paste with water and drizzle over the pizza",
+          "Bake in the oven until the cheese is melted and bubbly"
+        ],
+        "rating": 4.4
+      },
+      {
+        "recipe_id": "2n3o4p5q",
+        "recipe_name": "Kakuni",
+        "ingredients": ["pork belly", "sake", "soy sauce", "mirin", "sugar"],
+        "cooking_method": [
+          "Cut the pork belly into large cubes",
+          "Heat a pot of water and blanch the pork belly for a few minutes",
+          "Drain the pork belly and rinse with cold water",
+          "Put the pork belly back into the pot and add enough water to cover it",
+          "Add the sake, soy sauce, mirin, and sugar and bring to a boil",
+          "Lower the heat and simmer for 2-3 hours, or until the pork is tender",
+          "Serve with steamed rice and garnish with chopped scallions"
+        ],
+        "rating": 4.8
+      },
+      {
+        "recipe_id": "5p6q7r8s",
+        "recipe_name": "Sashimi Salad",
+        "ingredients": [
+          "mixed greens",
+          "sashimi-grade fish",
+          "carrots",
+          "cucumbers",
+          "sesame oil"
+        ],
+        "cooking_method": [
+          "Wash and dry the mixed greens and place them in a large bowl",
+          "Cut the sashimi-grade fish into thin slices and arrange on top of the greens",
+          "Cut the carrots and cucumbers into thin strips and add to the bowl",
+          "Drizzle with sesame oil and toss to combine"
+        ],
+        "rating": 4.6
+      }
+    ]
+  }
+]
